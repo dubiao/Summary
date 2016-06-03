@@ -8,6 +8,7 @@
 ![Amber App](https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_amber.png)
 Amber 是一个给 Apple Watch 充电的移动电源，充电时可以盖上盖子把手表保护起来。
 Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连接后可以监看 Amber 的状态，电量，是否充放，固件升级等功能。
+
 	* 使用 `Swift` 语言编写代码
 	* 使用 Alamofire 进行网络通信
 	* 使用 Storyboard 编写界面
@@ -73,8 +74,8 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 [<img src="https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/App_Store_Badge.png" height="40">]
 (https://itunes.apple.com/cn/app/you-lian-xi-shang-wu-he-zhi/id484456145?mt=8)
 
-		百科 
-		http://www.baike.com/wiki/%E5%8F%8B%E8%81%94%E7%B3%BB
+	百科 
+	http://www.baike.com/wiki/%E5%8F%8B%E8%81%94%E7%B3%BB
 
 ### 3. 友名片-Android （2012～2014）<img src="https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_icon_ycard.png" height="25">
 ![友名片-Android](https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_ycard.png)
@@ -109,26 +110,25 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 
 与微博合作后，开发的一个职场社交 app 。进入项目的时间比较晚。负责项目中消息（群聊）/约见/活动 等新功能的开发。
 
------
-	
 > 其它相关项目
-> * 名片识别的后台（PHP，MySQL，HTML，JS，CSS）
-> * 客服人员使用的打电话 录音/记录工作内容 app （Android）
-> * 微人脉 iOS 项目（短暂）
-> * 其它（包括各种后台（PHP）各种脚本（Python））
+> ##### * 名片识别的后台（PHP，MySQL，HTML，JS，CSS）
+> ##### * 客服人员使用的打电话 录音/记录工作内容 app （Android）
+> ##### * 微人脉 iOS 项目（短暂）
+> ##### * 其它（包括各种后台（PHP）各种脚本（Python））
 
 	 我 2015 年 7 月离开友录公司加入青萍。在职 5 年期间参与了公司的大部分项目，我目前的大部分专业技能也是在这里习得。
 
-
+-----
+	
 #### 技能
-Android （Java）
-iOS （Swift，Objective-C）
-PHP
-NodeJS
-Python
-HTML
-Javascript
-CSS
-MySQL
-Sqlite
-MongoDB
+* Android （Java）
+* iOS （Swift，Objective-C）
+* PHP
+* NodeJS
+* Python
+* HTML
+* Javascript
+* CSS
+* MySQL
+* Sqlite
+* MongoDB
