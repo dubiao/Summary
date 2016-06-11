@@ -142,8 +142,12 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 	
 #### 技能
 * App
-	* Android （Java）
-	* iOS （Swift，Objective-C）
+	* Android
+		* Java
+		* JNI
+	* iOS
+		* Swift
+		* Objective-C
 	* React Native
 * Server
 	* PHP
@@ -169,6 +173,7 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 * Cloud Service
 	* LeanCloud (Parse / Bmob)
 	* 野狗 Wilddog (Firebase)
+	* MailGun
 * Tool
 	* Git / Svn
 		* Github.com 
@@ -181,5 +186,10 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 		* PhpStorm
 		* SublimeText
 		* Atom
+	* Distribute
+		* 蒲公英
+		* TestFlight
+		* fir.im
+
 ...
 
