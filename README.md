@@ -57,16 +57,7 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 	
 ### 2. 友联系-Android （2011～2012）<img src="https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_icon_ylx.png" height="25">
 ![友联系-Android](https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_ylx.png)
-友录公司尝试的第一个职场社交app，是微人脉的前身。app 精细的做工再一次引来各种效仿。
-我在项目中负责 附近的人/摇一摇/拍名片（云端识别）/个人详情 等功能
-    
-	* 附近的人/摇一摇
-    跟现在的普遍的附近的人/摇一摇功能差不多，列出来有谁，点一下加好友，可以以公司聚合。
 
-    * 拍名片
-    因为纸质的名片管理和查找起来很麻烦，所以推出电子名片的功能，后来这个功能单独立一项目。有二维码名片功能。
-    当时安卓碎片化很严重，适配各种手机的相机很麻烦。
-    
 以下是链接，可以看看图片和介绍不用下载，因为服务已经不可用。
 
 [<img src="https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/Google_Play_Badge.png" height="40">]
@@ -74,21 +65,54 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 [<img src="https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/App_Store_Badge.png" height="40">]
 (https://itunes.apple.com/cn/app/you-lian-xi-shang-wu-he-zhi/id484456145?mt=8)
 
-	百科 
+> 友联系是友录在2011年12月推出的职场社交产品，为用户提供“便捷”、“有商务价值”的社交服务。用户可以扫描纸质名片，交换电子名片，创建或参加聚会，并以此维护和拓展人脉圈。友联系的商务价值体现在用户可以通过自己的“人脉”发现他们的朋友，交换名片通过请求后，可以查看对方包括工作履历在内的详细资料，可以称赞对方，还可以给对方发私信，也可以发邀请给通讯录联系人一起来用友联系。 
+主要特色：准确率极高的纸质名片“云识别”、交换电子名片后自动跟踪并通知交换双方的名片资料变化、用户自发创建聚会创造内容并形成圈子。 
+
+我在项目中负责 附近的人/摇一摇/拍名片（云端识别）/个人详情 等功能
+    
+#### 技术要点：
+1. 附近的人/摇一摇
+	使用百度和 Google 两种定位 SDk，配合提高服务可靠性
+2. 个人详情
+	* 封装详情控件
+	* 封装编辑控件
+3. 拍名片
+    后来这个功能单独立一项目。
+    当时安卓碎片化很严重，适配各种手机的相机很麻烦。
+    
+
+
+百科 
 	http://www.baike.com/wiki/%E5%8F%8B%E8%81%94%E7%B3%BB
 
 ### 3. 友名片-Android （2012～2014）<img src="https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_icon_ycard.png" height="25">
 ![友名片-Android](https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_ycard.png)
-因为友联系项目中的拍名片识别功能比较受欢迎，所以单独拿出来为一个 app。我负责项目Android 平台从 0 开始的搭建（非领导，只是主力）。
-    
-我负责包括但不限于 拍名片/编辑名片（云端识别有误时，用户手动修改，反馈修改结果到云端，优化下次识别）/交换名片 等功能。用户以国外为主，支持中/英/日/韩 4 种语言。
-    
-以下是链接，可以看看图片和介绍不用下载，因为服务已经不可用。
 
 [<img src="https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/Google_Play_Badge.png" height="40">]
 (https://play.google.com/store/apps/details?id=com.ycard&hl=zh_HK)
 [<img src="https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/App_Store_Badge.png" height="40">]
 (https://itunes.apple.com/cn/app/you-ming-pian-ming-pian-shi-bie/id534966036?mt=8)
+
+> 友名片”（Yolu Card Reader）是一款基于云端识别的名片管理工具，可以准确地将您的纸质名片转化为电子信息，并自动保存更新，让您轻松有效管理人脉资源。
+
+因为友联系项目中的拍名片识别功能比较受欢迎，所以单独拿出来为一个 app。我负责项目 Android 平台的搭建及开发。功能包括但不限于 拍名片/编辑名片/保存联系人/交换名片 等功能。用户以国外为主，支持中/英/日/韩 4 种语言。
+    
+#### 技术要点：
+1. 相机相关技术
+	* 相机适配工作
+	* 二维码生成与解析（库）
+	* 拍照图片转码压缩，合并等
+2. 自定义模块封装
+	* 封装 TitleBar
+	* 封装 名片控件
+	* 封装 各种提示界面、对话框、空内容/错误提示等
+	* 封装 网络请求
+3. 列表项目拖动分组
+4. 数据库优化
+
+>相关项目
+>##### 1. 名片识别后台（PHP，MySQL，HTML，JS，CSS）
+>##### 2. 友联系
 
 ### 4. 微博通讯录-Android （2014～2015）<img src="https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_icon_wbtxl.png" height="25">
 ![微博通讯录-Android](https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_wbtxl.png)
@@ -110,11 +134,8 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 
 与微博合作后，开发的一个职场社交 app 。进入项目的时间比较晚。负责项目中消息（群聊）/约见/活动 等新功能的开发。
 
-> 其它相关项目
-> ##### * 名片识别的后台（PHP，MySQL，HTML，JS，CSS）
-> ##### * 客服人员使用的打电话 录音/记录工作内容 app （Android）
+> 相关项目
 > ##### * 微人脉 iOS 项目（短暂）
-> ##### * 其它（包括各种后台（PHP）各种脚本（Python））
 
 	 我 2015 年 7 月离开友录公司加入青萍。在职 5 年期间参与了公司的大部分项目，我目前的大部分专业技能也是在这里习得。
 
