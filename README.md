@@ -3,7 +3,7 @@
 
 > #### 青萍科技（2015-7 ~ Now）
 
-	我加入一加硬件的创业公司。主要负责 iOS 上 app 的开发工作，次要负责公司官网及运营后台等杂项工作。
+	我加入一加硬件的创业公司。主要负责 iOS 上 app 的开发工作，次要负责公司官网、运营后台、公司网络、IT等杂项工作。
 #### 1.  Amber -iOS （2015-7 ~ Now）<img src="https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_icon_amber.png" height="25">
 ![Amber App](https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_amber.png)
 Amber 是一个给 Apple Watch 充电的移动电源，充电时可以盖上盖子把手表保护起来。
@@ -27,13 +27,12 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 	所以有一个网站后台查询记录，能将记录转码成专业人士能看懂的表格样式，方便定位问题所在。
 >##### 3. 公司官网
 	 http://cleargrass.com
->##### 4. 公司各种数据后台
-	官网有订阅功能，用户提交自己的邮箱。
-	为了方便老板查看数据，写了后台查看界面，用条形图标示哪些天哪些周的人数增涨。
->##### 5.群发（或单发）邮件
+	 相关技术：PHP(Slim, Twig), NodeJS(Express, Jade), MySql, Python等
+>##### 4.群发（或单发）邮件
 	使用 http://mailgun.com/ 的服务。
->##### 6. 其它操作后台
-	大部分后台页面都是为了增加效率主动编写，非任务。
+>##### 5. 各种后台各种脚本
+	大部分后台页面都是为了增加效率编写。
+	
 
 ------
 
@@ -83,7 +82,7 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 
 
 百科 
-	http://www.baike.com/wiki/%E5%8F%8B%E8%81%94%E7%B3%BB
+	http://www.baike.com/wiki/友联系
 
 ### 3. 友名片-Android （2012～2014）<img src="https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_icon_ycard.png" height="25">
 ![友名片-Android](https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_ycard.png)
@@ -142,14 +141,45 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 -----
 	
 #### 技能
-* Android （Java）
-* iOS （Swift，Objective-C）
-* PHP
-* NodeJS
-* Python
-* HTML
-* Javascript
-* CSS
-* MySQL
-* Sqlite
-* MongoDB
+* App
+	* Android （Java）
+	* iOS （Swift，Objective-C）
+	* React Native
+* Server
+	* PHP
+		* Slim
+		* Zend
+		* Twig
+	* NodeJS
+		* Express
+		* Jade(Pug)
+	* Python
+		* Django
+* Front End
+	* HTML
+	* Javascript
+		* JQuery
+		* Zopto
+	* CSS
+		* Bootstrap 
+* Database
+	* MySQL
+	* Sqlite
+	* MongoDB
+* Cloud Service
+	* LeanCloud (Parse / Bmob)
+	* 野狗 Wilddog (Firebase)
+* Tool
+	* Git / Svn
+		* Github.com 
+		* GitCafe.com (Coding.net)
+	* IDE
+		* Android Studio
+		* Xcode 
+		* IntelliJ IDEA
+		* Eclipse
+		* PhpStorm
+		* SublimeText
+		* Atom
+...
+
