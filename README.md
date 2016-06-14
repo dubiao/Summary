@@ -141,9 +141,7 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 -----
 	
 #### 技能
-<progress value="22" max="100">k</progress>
-<progress value="22" max="100"></progress>
-<h2> kl </h2>
+
 * Android				![](http://progressed.io/bar/90)
 	* Java 				![](http://progressed.io/bar/85)
 	* JNI				![](http://progressed.io/bar/55)
