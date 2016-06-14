@@ -141,55 +141,37 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 -----
 	
 #### 技能
-* App
-	* Android
-		* Java
-		* JNI
-	* iOS
-		* Swift
-		* Objective-C
-	* React Native
-* Server
-	* PHP
-		* Slim
-		* Zend
-		* Twig
-	* NodeJS
-		* Express
-		* Jade(Pug)
-	* Python
-		* Django
-* Front End
-	* HTML
-	* Javascript
-		* JQuery
-		* Zopto
-	* CSS
-		* Bootstrap 
-* Database
-	* MySQL
-	* Sqlite
-	* MongoDB
+* Android				◼◼◼◼◼◼◼◼◼
+	* Java 				◼◼◼◼◼◼◼◼
+	* JNI				◼◼
+* iOS					◼◼◼◼◼◼
+	* Swift				◼◼◼◼◼◼◼
+	* StoryBoard / SnapKit		◼◼◼◼◼◼◼
+* PHP					◼◼◼◼◼◼
+	* Slim				◼◼◼◼◼◼◼
+	* Twig				◼◼◼◼◼◼◼
+* NodeJS				◼◼◼◼◼◼
+	* Express			◼◼◼◼◼◼
+	* Jade(Pug) / EJS		◼◼◼◼◼◼◼
+* Python				◼◼◼◼◼◼◼◼
+	* Django			◼◼◼◼◼
+* Git / Svn				◼◼◼◼◼◼◼
+* MySQL					◼◼◼◼◼◼
+* Sqlite				◼◼◼◼◼◼
+* MongoDB				◼◼◼◼◼
+* Others
+	* HTML				◼◼◼◼◼◼◼◼
+	* Javascript			◼◼◼◼◼◼
+		* JQuery		◼◼◼◼◼◼◼
+		* Zopto			◼◼◼◼
+	* CSS				◼◼◼◼
+		* Bootstrap 		◼◼◼◼◼◼
+	* React Native			◼◼
 * Cloud Service
-	* LeanCloud (Parse / Bmob)
-	* 野狗 Wilddog (Firebase)
-	* MailGun
-* Tool
-	* Git / Svn
-		* Github.com 
-		* GitCafe.com (Coding.net)
-	* IDE
-		* Android Studio
-		* Xcode 
-		* IntelliJ IDEA
-		* Eclipse
-		* PhpStorm
-		* SublimeText
-		* Atom
-	* Distribute
-		* 蒲公英
-		* TestFlight
-		* fir.im
+	* LeanCloud (Parse / Bmob)	◼◼◼◼◼◼
+	* 野狗 Wilddog (Firebase)	◼◼◼◼◼
+	* 七牛 Qiniu			◼◼◼◼◼
+	* MailGun			◼◼◼◼◼◼◼
 
 ...
 
