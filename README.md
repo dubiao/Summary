@@ -141,37 +141,40 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 -----
 	
 #### 技能
-* Android				◼◼◼◼◼◼◼◼◼
-	* Java 				◼◼◼◼◼◼◼◼
-	* JNI				◼◼
-* iOS					◼◼◼◼◼◼
-	* Swift				◼◼◼◼◼◼◼
-	* StoryBoard / SnapKit		◼◼◼◼◼◼◼
-* PHP					◼◼◼◼◼◼
-	* Slim				◼◼◼◼◼◼◼
-	* Twig				◼◼◼◼◼◼◼
-* NodeJS				◼◼◼◼◼◼
-	* Express			◼◼◼◼◼◼
-	* Jade(Pug) / EJS		◼◼◼◼◼◼◼
-* Python				◼◼◼◼◼◼◼◼
-	* Django			◼◼◼◼◼
-* Git / Svn				◼◼◼◼◼◼◼
-* MySQL					◼◼◼◼◼◼
-* Sqlite				◼◼◼◼◼◼
-* MongoDB				◼◼◼◼◼
+<progress value="22" max="100">k</progress>
+<progress value="22" max="100"></progress>
+<h2> kl </h2>
+* Android				![](http://progressed.io/bar/90)
+	* Java 				![](http://progressed.io/bar/85)
+	* JNI				![](http://progressed.io/bar/55)
+* iOS					![](http://progressed.io/bar/60)
+	* Swift				![](http://progressed.io/bar/70)
+	* StoryBoard / SnapKit		![](http://progressed.io/bar/60)
+* PHP					![](http://progressed.io/bar/60)
+	* Slim				![](http://progressed.io/bar/70)
+	* Twig				![](http://progressed.io/bar/70)
+* NodeJS				![](http://progressed.io/bar/60)
+	* Express			![](http://progressed.io/bar/60)
+	* Jade(Pug) / EJS		![](http://progressed.io/bar/70)
+* Python				![](http://progressed.io/bar/70)
+	* Django			![](http://progressed.io/bar/50)
+* Git / Svn				![](http://progressed.io/bar/70)
+* MySQL					![](http://progressed.io/bar/60)
+* Sqlite				![](http://progressed.io/bar/60)
+* MongoDB				![](http://progressed.io/bar/50)
 * Others
-	* HTML				◼◼◼◼◼◼◼◼
-	* Javascript			◼◼◼◼◼◼
-		* JQuery		◼◼◼◼◼◼◼
-		* Zopto			◼◼◼◼
-	* CSS				◼◼◼◼
-		* Bootstrap 		◼◼◼◼◼◼
-	* React Native			◼◼
+	* HTML				![](http://progressed.io/bar/70)
+	* Javascript			![](http://progressed.io/bar/60)
+		* JQuery		![](http://progressed.io/bar/70)
+		* Zopto			![](http://progressed.io/bar/30)
+	* CSS				![](http://progressed.io/bar/40)
+		* Bootstrap 		![](http://progressed.io/bar/60)
+	* React Native			![](http://progressed.io/bar/20)
 * Cloud Service
-	* LeanCloud (Parse / Bmob)	◼◼◼◼◼◼
-	* 野狗 Wilddog (Firebase)	◼◼◼◼◼
-	* 七牛 Qiniu			◼◼◼◼◼
-	* MailGun			◼◼◼◼◼◼◼
+	* LeanCloud (Parse / Bmob)	![](http://progressed.io/bar/60)
+	* 野狗 Wilddog (Firebase)	![](http://progressed.io/bar/50)
+	* 七牛 Qiniu			![](http://progressed.io/bar/45)
+	* MailGun			![](http://progressed.io/bar/65)
 
 ...
 
