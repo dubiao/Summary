@@ -3,7 +3,7 @@
 
 > #### 青萍科技（2015-7 ~ Now）
 
-	我加入一加硬件的创业公司。主要负责 iOS 上 app 的开发工作，次要负责公司官网、运营后台、公司网络、IT等杂项工作。
+	我加入青萍这家硬件的创业公司。主要负责 iOS 上 app 的开发工作，次要负责公司官网、运营后台、公司网络、IT等杂项工作。
 #### 1.  Amber -iOS （2015-7 ~ Now）<img src="https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_icon_amber.png" height="25">
 ![Amber App](https://raw.githubusercontent.com/dubiao/Summary/gh-pages/images/project_app_amber.png)
 Amber 是一个给 Apple Watch 充电的移动电源，充电时可以盖上盖子把手表保护起来。
@@ -136,7 +136,7 @@ Amber-app 是一个和 Amber 配合使用的应用。通过蓝牙与 Amber 连�
 > 相关项目
 > ##### * 微人脉 iOS 项目（短暂）
 
-	 我 2015 年 7 月离开友录公司加入青萍。在职 5 年期间参与了公司的大部分项目，我目前的大部分专业技能也是在这里习得。
+	 我在友录公司 5 年期间参与了公司的大部分项目，我目前的大部分专业技能也是在这里习得。
 
 -----
 	
